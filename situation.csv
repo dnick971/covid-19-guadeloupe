@@ -34,3 +34,4 @@ date,nb_cas_conf,nb_hosp_tot,nb_hosp_rea,nb_deces,nb_gueri,confinement,ecole_fer
 2020-04-13,145,22,16,8,67,True,True,True,True,True,True,1,1
 2020-04-14,145,24,15,8,67,True,True,True,True,True,False,1,1
 2020-04-15,145,23,14,8,68,True,True,True,True,True,False,1,1
+2020-04-16,145,21,14,8,68,True,True,True,True,True,False,1,1
